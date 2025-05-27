@@ -3,9 +3,9 @@ Campo Minado em Python
 
 # 1. Visão Geral
 
-- **Tecnologia Utilizada**: Python (puro, sem bibliotecas gráficas)  
+- **Tecnologia Utilizada**: Python (puro)  
 - **Descrição**: Implementação simplificada do clássico jogo Campo Minado no terminal, com geração aleatória de minas, contagem de minas adjacentes e condição de vitória/derrota.  
-- **Objetivo**: Criar uma versão jogável de Campo Minado no console, com foco em lógica de programação e interação básica com o usuário.
+- **Objetivo**: Criar uma versão jogável de Campo Minado, com foco em lógica de programação e interação básica com o usuário.
 
 ---
 
